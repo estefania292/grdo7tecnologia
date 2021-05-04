@@ -1,0 +1,115 @@
+body{
+background: pink;
+}
+.escobar{
+	position: absolute;
+	left: 1%;
+	height: 90%;
+	top: 4%;
+	right: 1%;
+	background: url("colombia.jpg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.hola{
+	font-size: 50px;
+	color: black;	
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	right: 30%;
+	width: 32%;
+	height: 16%;
+	border: solid 5px black;
+	padding-left:25px;
+	padding-top:2px;
+	padding-right:25px;
+	box-sizing: border-box;
+	background: #FFFC33;
+}
+.palabra1{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	width: 31%;
+	height: 27%;
+	background: #FFFC33;
+	border: solid 5px;
+}
+.paro1{
+	position: absolute;
+	top: 60%;
+	left: 4%;
+	width: 15%;
+	height: 29%;
+	background: url("paro1.jpg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.palabra2{
+	position: absolute;
+	top: 60%;
+	left: 21%;
+	width: 15%;
+	height: 29%;
+	background: #FFFC33;
+	border: solid 5px;
+}
+.estefa2{
+	position: absolute;
+	top: 1%;
+	left: 58%;
+	height: 56%;
+	width: 40%;
+	border: solid 5px;
+	background:#FFFC33;
+}
+.palabra3{
+	position: absolute;
+	top: 3%;
+	left: 59%;
+	height: 20%;
+	width: 38%;
+	border: solid 5px;
+	background:pink;
+}
+.paro2{
+	position: absolute;
+	top: 26%;
+	left: 60%;
+	width: 15%;
+	height: 29%;
+	background: url("paro2.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
+.paro3{
+	position: absolute;
+	top: 26%;
+	left: 80%;
+	width: 15%;
+	height: 29%;
+	background: url("paro3.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+
+}
+.palabra4{
+	position: absolute;
+	top: 60%;
+	left: 58%;
+	width: 20%;
+	height: 29%;
+	background: #FFFC33;
+	border: solid 5px black;
+}
+.paro4{
+	position: absolute;
+	top: 60%;
+	left: 83%;
+	width: 15%;
+	height: 29%;
+	background: url("paro4.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
